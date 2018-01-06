@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes
 Git
 upcast to githhub
+Creating a new branch is quick
