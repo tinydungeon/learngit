@@ -5,3 +5,4 @@ Git tracks changes
 Git
 upcast to githhub
 Creating a new branch is quick AND simple
+add merge
